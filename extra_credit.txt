@@ -1,0 +1,3 @@
+- I just added a new ArrayList with new colors for the font to make the game more confusing
+- Just like the background and text, the text colors also change
+- It (hopefully) won't be hard to read. 

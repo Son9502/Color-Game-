@@ -1,0 +1,12 @@
+---
+:id: 75100950
+:submitters:
+- :name: Soughtout Oloruntobiloba Olasupo-Ojo
+  :email: solasupoojo3@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-16 03:52:17.391047000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-15 20:52:17.391047000 Z
+:status: processed
+:score: 105.0
